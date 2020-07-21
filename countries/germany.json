@@ -1,0 +1,31 @@
+{
+  "name": "Germany",
+  "population": "80 million",
+  "topics": {
+    "dos": ["Speak little.", "Be silent.", "Follow the laws fevirishly."],
+    "donts": [
+      "Don't hug people you don't know.",
+      "In the south of germany, you'll rather avoid speaking on the phone while in public transportation."
+    ],
+    "covid19": [
+      "Wearing a facemask in public transportation that covers mouth and nose is mandatory.",
+      "Wearing a facemask while walking in the street or open places is elegible for the citizens."
+    ],
+    "safety": [
+      "Germany tends to be a quiet and safe country but it's not free of dangers.",
+      "Avoid any type of comments or remarks that might come over as racist, too politically inclined or related to the wars germany was involved in. Due to the highly international cultural mix present in germany it's not a good idea to risk bad jokes that attempt to offend people because of their ethnicity."
+    ],
+    "tipping": "In Germany the general agreement for tipping is to be the 10% of the entire bill, now while it's not mandatory to do so, tipping is expected in german gastronomic services.",
+    "greeting": "Germans are cold as fuck. So just imitate them in their coldness.",
+    "dating": "Germans tend to be quite kinky.",
+    "dressing": "Dressing is mostly liberal in germany, specially regarding their FKK (Freiekörperkultur), a lot of nudism in beaches is seen as accepted and something completely normal.",
+    "smalltalk": "Germans don't speak.",
+    "bodylanguage": "Germans don't communicate.",
+    "punctuality": "Germans are the world-champions in punctuality. Count the nanoseconds when meeting someone in germany."
+  },
+  "essentials": {
+    "currency": "EUR",
+    "transportation": "The public transportation in germany is mostlly very well connected and counts on several Apps with friendly english translations for foreigners to find their ways."
+  },
+  "business": "Secret!!!!"
+}
