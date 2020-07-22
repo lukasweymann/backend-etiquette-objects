@@ -1,28 +1,37 @@
 {
-    "name": "",
-    "population": "",
-    "topics": {
-      "dos": [],
-      "donts": [
-        
-      ],
-      "covid19": [
-        
-      ],
-      "safety": [
-        
-      ],
-      "tipping": "",
-      "greeting": "",
-      "dating": "",
-      "dressing": "",
-      "smalltalk": "",
-      "bodylanguage": "",
-      "punctuality": ""
-    },
-    "essentials": {
-      "currency": "",
-      "transportation": ""
-    },
-    "business": "Secret!!!!"
-  }
+  "name": "Turkey",
+  "population": "82 million",
+  "topics": {
+    "dos": [
+      "Drink tea",
+      "Try the local food",
+      "Do be aware of the month of Ramadan.",
+      "Do learn some Turkish words."
+    ],
+    "donts": [
+      "Don’t take pictures of people without asking permission.",
+      "Don't forget to take off the shoes at the doorstep",
+      "Don't let taxi drivers take you on the scenic route",
+      "Don’t take pictures of people without asking permission."
+    ],
+    "covid19": [
+      "Wearing a facemask is mandatory in public places .",
+      "you should keep your social distance."
+    ],
+    "safety": [
+      "Although Turkey is by no means a dangerous country to visit, it's always wise to be a little cautious."
+    ],
+    "tipping": "As a rule of thumb, you are expected to tip 5-10% in restaurants, cafés and bars. Hotel staff expect, depending on their duties, between 5 to 20 Turkish Liras for their services. Turks don’t tip taxi drivers, but round up cab fares.",
+    "greeting": "People generally greet one another with a handshake when meeting for the first time. However, some Muslims may prefer not to touch people of the opposite gender.",
+    "dating": "",
+    "dressing": "No problem wearing shorts for comfort, except when you visit mosques. As for Turks, most of them will be wearing (smart casual), clothes: sleeved summer dresses or sleeved top and skirt for women, short-sleeved shirt and long trousers for men. Footwear can be shoes or sandals.",
+    "smalltalk": "you can talk about footbal(soccer)day and night.",
+    "bodylanguage": "don't make eye contact with strangers for too long",
+    "punctuality": "Turkish people not so punctual but they don't like wait. "
+  },
+  "essentials": {
+    "currency": "Turkish Lira",
+    "transportation": "The public transport is brand new and comfortable but in rush hours as like hell."
+  },
+  "business": "Secret!!!!"
+}
