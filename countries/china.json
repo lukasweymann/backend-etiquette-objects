@@ -1,28 +1,38 @@
 {
-    "name": "",
-    "population": "",
-    "topics": {
-      "dos": [],
-      "donts": [
-        
-      ],
-      "covid19": [
-        
-      ],
-      "safety": [
-        
-      ],
-      "tipping": "",
-      "greeting": "",
-      "dating": "",
-      "dressing": "",
-      "smalltalk": "",
-      "bodylanguage": "",
-      "punctuality": ""
-    },
-    "essentials": {
-      "currency": "",
-      "transportation": ""
-    },
-    "business": "Secret!!!!"
-  }
+  "name": "China",
+  "population": "1.393 billion",
+  "topics": {
+    "dos": [
+      "Do Present and receive things with both hands.",
+      "Do walk in a clockwise direction when touring a temple or monastery.",
+      "Do take off your hat when entering temples. ",
+      "Do not overreact"
+    ],
+    "donts": [
+      "Don’t offer too firm of a handshake",
+      "Do tap the table when someone refills your tea.",
+      "Don’t put bones, seeds or other inedibles into in your rice bowl.",
+      "Don’t use your own chopsticks to pick food from the central dishes."
+    ],
+    "covid19": [
+      "Wearing a facemask in public transportation that covers mouth and nose is mandatory.",
+      "Wearing a facemask while walking in the street or open places is elegible for the citizens."
+    ],
+    "safety": [
+      "Personal attacks, including sexual assaults, are rare but they do occur, including through drinks being spiked. You should take reasonable precautions - don’t leave drinks unattended and avoid accepting drinks from strangers. Women, travelling alone or with female friends, could be at greater risk."
+      "Beware of scams in popular tourist areas. A common example is the ‘tea tasting’ scam or ‘massage’ scam. You may be invited to visit a bar, to participate in tea tasting or for a massage, but then face demands for an exorbitant fee. This can be followed by threats or actual violence, and credit card fraud."
+    ],
+    "tipping": "",
+    "greeting": "Handshakes as greetings in China are as common as they are in the West.",
+    "dating": "Dating apps are a huge part of modern dating culture. You have Tinder, Happn, Bumble… the list goes on and on. But if you’re going to China, chances are you’re not going to be finding any dates using the apps you’re used to. Sure, you could go out and meet people to take on a date.",
+    "dressing": "Dress for the occasion when traveling in China. Normally, we say that tourists in China should (dress as in the West). This means that whatever you wear on a normal day back home is generally an okay choice for your everyday travel itinerary in China as well.",
+    "smalltalk": "Making small talk in Chinese is just the same as in English. Touch on familiar topics like jobs, sports, children..just say it in Chinese! ",
+    "bodylanguage": "The Chinese dislike being touched by strangers. Do not touch, hug, lock arms, back slap or make any body contact. Clicking fingers or whistling is considered very rude. Never put your feet on a desk or a chair.",
+    "punctuality": ""
+  },
+  "essentials": {
+    "currency": "Renminbi",
+    "transportation": " Punctuality is vital. Being late is a serious offence in the Chinese business culture."
+  },
+  "business": "Secret!!!!"
+}
