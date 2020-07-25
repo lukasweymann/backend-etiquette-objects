@@ -1,28 +1,32 @@
 {
-    "name": "",
-    "population": "",
+    "name": "Russia",
+    "population": 144500000,
     "topics": {
-      "dos": [],
+      "dos": ["If you don't want to stand out, be fashionable and dress up when you go out. This is especially true for women - also be sure to put on makeup before leaving the house.", "Do take off your shoes when you enter someone's home; everything else is considered extremely impolite." ],
       "donts": [
-        
+        "Don't smile too much at strangers. Russians will either think you're a fool or making fun of them.",
+        "Don't shake hands or hug anyone across a doorstep. Russians tend to be superstitious and there are many rules on behaviour stemming from superstition. Bridging a threshold with a handshake or hug, for example, is believed to be bad luck because it's the place where the house spirit dwells.",
+        "Don't take pictures of military buildings, soldiers or police men." 
       ],
       "covid19": [
-        
+        "From the 27th of July onwards, foreigners may enter the country under restrictions: they have to provide a negative test for Covid19 in English or Russian that is no older than 3 days. Alternatively, they can provide proof of the presence of antibodies.", 
+        "Regulations on behaviour may differ from region to region. In Moscow, people are advised to wear face masks and gloves as well as practise social distancing on public transport and in buildings but it's not required by law."
+
       ],
       "safety": [
-        
+        "Russia is generally safe but be aware of pickpocketing, especially in crowded areas and the metro. Don't keep your money in your back pocket."
       ],
-      "tipping": "",
-      "greeting": "",
-      "dating": "",
-      "dressing": "",
-      "smalltalk": "",
-      "bodylanguage": "",
-      "punctuality": ""
+      "tipping": "Tipping has generally not been expected in Russia but a tipping culture has lately been imported, especially in larger cities. If you are satisfied with the service, round up or give up to 10%. Give it directly to the waiter or leave it on your table.",
+      "greeting": "Russian men shake hands to greet each other and to say goodbye. Women usually don't shake hands; female fiends kiss each other on the cheek three times. In short, when you greet a Russian, male or female, you should shake hands and make eye contact. As a man greeting a woman, you should wait for the woman to offer her hand first.",
+      "dating": "Make to dress sharp for a date, this holds true for both men and women. It is absolutely normal and expected for a woman to be late as the man knows how much effort she puts into preparing for the date. As a man, on the other hand, you should be on time. Also, as a man, it is important to be chivalrous: hold doors open for your date, don't let her carry slightly heavier things, and so on.",
+      "dressing": "If you don't want to stand out as a foreigner, dress up when you go out, to a restaurant, bar or the theater. Russian women wear high heels, no matter how far they will be walking. Russian men wear fashionable shoes, too, mostly leather.",
+      "smalltalk": "In many cultures, how are you? is just a standard phrase of greeting. Not so in Russia; when Russians ask you how you are, they are interested in how you're actually doing and they will give an account of the recent events in their lifes themselves. When it comes to jokes, you don't have to care about political correctness too much; Russians appreciate jokes based on appearance, ethnicity or gender. However, never joke about someone's mother or father - you would definitely cross a line.",
+      "bodylanguage": "Standing around with your hand in your pockets is considered a sign of laziness. Regarding physical distance, Russians tend to stand close when talking.",
+      "punctuality": "Russians are quite flexible about time. In private life, it is absolutely fine to arrive a little late for a meeting. In work life, however, people try to be on time for meetings. If they are running late, the most common apology will be that they are stuck in traffic or that they had internet connection issues."
     },
     "essentials": {
-      "currency": "",
-      "transportation": ""
+      "currency": "Russian ruble",
+      "transportation": "In larger cities, public transport is very well developed, efficient and affordable; you can get around by metro, tram, bus. Of course, you can also take a taxi - however, be sure to agree on a price before setting off or use a taxi-hailing app. To travel between cities and towns, taking the train is a good idea to see Russia's diversity."
     },
     "business": "Secret!!!!"
   }
